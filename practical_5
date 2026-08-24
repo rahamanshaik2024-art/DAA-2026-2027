@@ -22,7 +22,7 @@ int main() {
 
     int dp[101][101] = {0};
 
-    // Dynamic Programming
+
     for (int i = 1; i <= n; i++) {
         for (int w = 1; w <= W; w++) {
 
